@@ -18,5 +18,7 @@
   "homepage": "https://github.com/JackFeng7/learning#readme",
   "dependencies": {
     "assert": "^2.0.0"
-  }
+  },
+  "devDependencies": {},
+  "keywords": []
 }

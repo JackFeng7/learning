@@ -289,6 +289,4 @@ function part2(array, row, column) {
     return {tempChanged, current};
 }
 
-function 
-
 search(array, part2);
